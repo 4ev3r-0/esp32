@@ -1,0 +1,18 @@
+# DISPLAY WIRING
+
+| PIN ON DEVICE | CONNECTION | ESP32-S3 GPIO PIN | NOTES |
+| :---: | :---: | :---: | :--- |
+| **T_IRQ** | LEAVE DISCONNECTED | — | Touchscreen Interrupt |
+| **T_DO** | LEAVE DISCONNECTED | — | Touchscreen MISO |
+| **T_DIN** | LEAVE DISCONNECTED | — | Touchscreen MOSI |
+| **T_CS** | LEAVE DISCONNECTED | — | Touchscreen Chip Select |
+| **T_CLK** | LEAVE DISCONNECTED | — | Touchscreen Clock |
+| **SDO (MISO)** | CONNECTED | **GPIO 13** | Hardware FSPI MISO |
+| **LED** | 3.3V RAIL | — | Screen Backlight (Max Brightness) |
+| **SCK** | CONNECTED | **GPIO 12** | Hardware FSPI Clock |
+| **SDI (MOSI)** | CONNECTED | **GPIO 11** | Hardware FSPI MOSI |
+| **DC** | CONNECTED | **GPIO 9** | Data / Command Selection |
+| **RESET** | CONNECTED | **GPIO 8** | Screen Hardware Reset |
+| **CS** | CONNECTED | **GPIO 10** | Hardware FSPI Chip Select |
+| **GND** | GND | — | Common Ground |
+| **VCC** | 3.3V RAIL | — | Main Display Power |
