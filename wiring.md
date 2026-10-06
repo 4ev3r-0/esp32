@@ -46,7 +46,3 @@
 | **GND** | GND | — | COMMON GROUND |
 | **OUT+** | SPEAKER + | — | SPEAKER POSITIVE |
 | **OUT-** | SPEAKER - | — | SPEAKER NEGATIVE |
-
-(purchase the speaker and stuff)
-https://a.co/d/02EWfVrI
-https://a.co/d/02QbIk9W
