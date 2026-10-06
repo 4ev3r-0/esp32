@@ -25,3 +25,28 @@
 | **MISO** | CONNECTED | **GPIO 13** | SHARED SPI MISO |
 | **VCC** | 3.3V RAIL | — | SD CARD POWER |
 | **GND** | GND | — | COMMON GROUND |
+
+# BUTTONS
+| PIN ON BUTTON | CONNECTION | ESP32-S3 GPIO PIN | NOTES |
+| :---: | :---: | :---: | :--- |
+| **BUTTON 1** | CONNECTED TO GND | **GPIO 4** | BUTTON INPUT 1 |
+| **BUTTON 2** | CONNECTED TO GND | **GPIO 5** | BUTTON INPUT 2 |
+| **BUTTON 3** | CONNECTED TO GND | **GPIO 6** | BUTTON INPUT 3 |
+| **BUTTON 4** | CONNECTED TO GND | **GPIO 7** | BUTTON INPUT 4 |
+| **BUTTON 5** | CONNECTED TO GND | **GPIO 15** | BUTTON INPUT 5 |
+| **BUTTON 6** | CONNECTED TO GND | **GPIO 16** | BUTTON INPUT 6 |
+
+# SPEAKER
+| PIN ON DEVICE | CONNECTION | ESP32-S3 GPIO PIN | NOTES |
+| :---: | :---: | :---: | :--- |
+| **BCLK** | CONNECTED | **GPIO 17** | I2S BIT CLOCK |
+| **LRC / WS** | CONNECTED | **GPIO 18** | I2S WORD SELECT |
+| **DIN** | CONNECTED | **GPIO 19** | I2S AUDIO DATA |
+| **VIN** | 3.3V RAIL | — | AMPLIFIER POWER |
+| **GND** | GND | — | COMMON GROUND |
+| **OUT+** | SPEAKER + | — | SPEAKER POSITIVE |
+| **OUT-** | SPEAKER - | — | SPEAKER NEGATIVE |
+
+(purchase the speaker and stuff)
+https://a.co/d/02EWfVrI
+https://a.co/d/02QbIk9W
