@@ -16,7 +16,7 @@
 | **GND** | GND | — | COMMON GROUND |
 | **VCC** | 3.3V RAIL | — | MAIN DISPLAY POWER |
 
-# SD CARD
+# SD CARD - unused currently
 | PIN ON DEVICE | CONNECTION | ESP32-S3 GPIO PIN | NOTES |
 | :---: | :---: | :---: | :--- |
 | **CS** | CONNECTED | **GPIO 14** | SD CARD CHIP SELECT |
@@ -36,7 +36,7 @@
 | **BUTTON 5** | CONNECTED TO GND | **GPIO 5** | BUTTON INPUT 5 |
 | **BUTTON 6** | CONNECTED TO GND | **GPIO 6** | BUTTON INPUT 6 |
 
-# SPEAKER
+# SPEAKER - unused currently
 | PIN ON DEVICE | CONNECTION | ESP32-S3 GPIO PIN | NOTES |
 | :---: | :---: | :---: | :--- |
 | **BCLK** | CONNECTED | **GPIO 17** | I2S BIT CLOCK |
