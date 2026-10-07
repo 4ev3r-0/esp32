@@ -1,0 +1,6 @@
+/home/jay/esp32/.build_cache/output/core/StringUtils.cpp.o: \
+ /home/jay/.arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32/StringUtils.cpp \
+ /home/jay/.arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32/StringUtils.h \
+ /home/jay/.arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32/WString.h \
+ /home/jay/.arduino15/packages/esp32/hardware/esp32/3.3.12/cores/esp32/pgmspace.h \
+ /home/jay/.arduino15/packages/esp32/tools/esp32s3-libs/3.3.12/include/newlib/platform_include/ctype.h

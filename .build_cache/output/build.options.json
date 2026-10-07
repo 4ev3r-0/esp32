@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "../..,../../../..,../../../..,../..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "FlashSize=16M,PSRAM=opi,FlashMode=qio,CDCOnBoot=cdc",
+  "fqbn": "esp32:esp32:esp32s3",
+  "hardwareFolders": "/home/jay/.arduino15/packages/esp32/hardware/esp32/3.3.12,/home/jay/.arduino15/packages/esp32/hardware/esp32/3.3.12",
+  "otherLibrariesFolders": "/home/jay/Arduino/libraries",
+  "sketchLocation": "/home/jay/esp32"
+}
